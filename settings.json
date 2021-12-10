@@ -1,0 +1,40 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "terminal.integrated.gpuAcceleration": "off",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Cascadia code",
+    "editor.fontWeight": "normal",
+    "editor.inlineSuggest.enabled": true,
+    "editor.wordWrap": "on",
+    "editor.lineHeight": 32,
+    "workbench.editor.tabSizing": "shrink",
+    "window.zoomLevel": 1.1,
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "none",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.renderWhitespace": "all",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "diffEditor.renderSideBySide": false,
+    "gitlens.advanced.messages": {
+        "suppressGitDisabledWarning": true
+    },
+    "tabnine.experimentalAutoImports": true,
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.colorTheme": "One Dark Pro Darker",
+}
